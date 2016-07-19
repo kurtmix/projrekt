@@ -1,0 +1,102 @@
+/*
+ Theme Name:   Donny Ives
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  Twenty Fifteen Child Theme
+ Author:       John Doe
+ Author URI:   http://example.com
+ Template:     _tk
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twenty-fifteen-child
+*/
+body{
+	background-color:#2b3e50;
+}
+.navbar-header {
+background-color: #df691a;
+	
+}
+.collapse.navbar-collapse {
+background-color: #df691a;
+}
+.navbar-nav{
+	background-color: #df691a;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+	background-color: #df691a;
+}
+.navbar-default .navbar-brand {
+color:#ebebeb;
+}
+.navbar-default .navbar-nav>li>a{
+	color:#ebebeb;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus{
+	color:#ebebeb;
+}
+   p {
+    	color: #ebebeb;
+    }
+.navbar-default {
+	background-color: #df691a;
+	border-color: #df691a;
+}
+.navbar-default .navbar-toggle {
+	border-color:#df691a;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+border-color: #df691a;
+}
+h1 {
+color:white;
+}
+button, html input[type="button"], input[type="reset"], input[type="submit"] {
+    background-color:  #df691a;
+}
+button, html input[type="button"], input[type="reset"], input[type="submit"]{
+	color:black;
+}
+a {
+	color:  #df691a;
+}
+span.posted-on{
+	color:white;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+color:#ebebeb;
+}
+.simple-social-icons ul li a, .simple-social-icons ul li a:hover {
+	background-color: #2b3e50;
+    color: #df691a;
+    font-size: 18px;
+    padding: 9px;
+    border: none;
+}
+
+.simple-social-icons ul li a {
+   border: none;
+}
+.jumbotron h1, .jumbotron .h1{
+	color:black;
+}
+.jumbotron p{
+	color:black;
+	
+}
+.btn-primary{
+background-color: #df691a;
+}
+.btn-default {
+	border-color: #df691a;
+}
+.jumbotron{
+	background-color: #4b6e90; 
+}
+.wpcf7-form {
+	background-color: gray;
+}
+a:hover {
+    color: lightgreen;
+}
